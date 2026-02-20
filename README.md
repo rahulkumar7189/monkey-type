@@ -2,8 +2,7 @@
 
 A minimalist, highly customizable typing test platform inspired by [Monkeytype](https://monkeytype.com/). Built with React, Vite, and Tailwind CSS.
 
-![Monkeytype Clone Preview](https://via.placeholder.com/800x400/323437/e2b714?text=Monkeytype+Clone+Preview)
-_(Replace this placeholder with a screenshot of your running application)_
+![Monkeytype Clone Preview](assets/monkeytype-preview.png)
 
 ## Features
 
