@@ -66,4 +66,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Acknowledgments
 
 - Inspired by [Monkeytype](https://monkeytype.com/)
-- Built by [Your Name]
+- Built by [Rahul Kumar](https://github.com/rahulkumar7189)
